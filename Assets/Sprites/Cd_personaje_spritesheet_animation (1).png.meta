@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: c0995d26e32e6794eb4c29a8645d4df1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cd_personaje_spritesheet_animation (1)_8
+    21300002: Cd_personaje_spritesheet_animation (1)_14
+    21300004: Cd_personaje_spritesheet_animation (1)_21
+    21300006: Cd_personaje_spritesheet_animation (1)_24
+    21300008: Cd_personaje_spritesheet_animation (1)_40
+    21300010: Cd_personaje_spritesheet_animation (1)_41
+    21300012: Cd_personaje_spritesheet_animation (1)_58
+    21300014: Cd_personaje_spritesheet_animation (1)_0
+    21300016: Cd_personaje_spritesheet_animation (1)_1
+    21300018: Cd_personaje_spritesheet_animation (1)_2
+    21300020: Cd_personaje_spritesheet_animation (1)_3
+    21300022: Cd_personaje_spritesheet_animation (1)_4
+    21300024: Cd_personaje_spritesheet_animation (1)_5
+    21300026: Cd_personaje_spritesheet_animation (1)_6
+    21300028: Cd_personaje_spritesheet_animation (1)_7
+    21300030: Cd_personaje_spritesheet_animation (1)_9
+    21300032: Cd_personaje_spritesheet_animation (1)_10
+    21300034: Cd_personaje_spritesheet_animation (1)_11
+    21300036: Cd_personaje_spritesheet_animation (1)_12
+    21300038: Cd_personaje_spritesheet_animation (1)_13
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cd_personaje_spritesheet_animation (1)_8
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 616
+        width: 133
+        height: 99
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338c02d083f816d49b3de40627798f75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cd_personaje_spritesheet_animation (1)_14
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 614
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292fb057a1467b34186a676459a6a483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cd_personaje_spritesheet_animation (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 614
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dddd40b38dd0034199ac4113c86a65e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cd_personaje_spritesheet_animation (1)_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 467
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb9cf0abda9b89409ae29c5b1e2f6ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cd_personaje_spritesheet_animation (1)_40
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 205
+        width: 49
+        height: 34
+      alignment: 9
+      pivot: {x: 0.9467948, y: 0.07948752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4aa3dbfb85b3141b9914b461cfa1af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cd_personaje_spritesheet_animation (1)_41
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 205
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.042034913, y: 0.109054565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc66eb98556a4574cb599319c6f727f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cd_personaje_spritesheet_animation (1)_58
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 49
+        width: 85
+        height: 85
+      alignment: 9
+      pivot: {x: 0.8089772, y: 0.7874213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8941ddb219a33e448193416b3c16b09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cd_personaje_spritesheet_animation (1)_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 608
+        width: 145
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7ba95763bbdc5499cc3822e7dc8fcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cd_personaje_spritesheet_animation (1)_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 609
+        width: 145
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cf6dc1bd7376146bfb9a1f6d04f9bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cd_personaje_spritesheet_animation (1)_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 608
+        width: 145
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439ecd2c1f168d541869be22b0be6c6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cd_personaje_spritesheet_animation (1)_3
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 608
+        width: 145
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e4396f5db363142bb243e2ba86df34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cd_personaje_spritesheet_animation (1)_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 361
+        width: 132
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a816b965a45790498860f5ba49983ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cd_personaje_spritesheet_animation (1)_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 371
+        width: 140
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f57b3f62394c54e9bffbd10145bdeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cd_personaje_spritesheet_animation (1)_6
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 371
+        width: 118
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9e02c1eb2b8b74a88b7973e7cd5542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cd_personaje_spritesheet_animation (1)_7
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 379
+        width: 117
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acbb63559f68b0499f32a00e6c759ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cd_personaje_spritesheet_animation (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 379
+        width: 118
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a02cc44fbca3de408b5f5cfe6aaa0fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cd_personaje_spritesheet_animation (1)_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 134
+        width: 119
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40ec0a9b00f4154aaeecc1e78d89fd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cd_personaje_spritesheet_animation (1)_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 134
+        width: 119
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a589c3439e5b9834a9cf42f889e7257a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cd_personaje_spritesheet_animation (1)_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 141
+        width: 110
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27024a9e6b5dc5645808c3aafd61ec99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cd_personaje_spritesheet_animation (1)_13
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 143
+        width: 111
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab1f9b49545e454f8a19fdc0aa805f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ca673e6551d1e7e4d87a02f145509a51
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
